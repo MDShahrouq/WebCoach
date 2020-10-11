@@ -16,7 +16,7 @@
 body {
     font-size: 14px;
     line-height: normal;
-    background-color: #fff;
+    background: linear-gradient(#92e78d, #3ca);
 }
 
 body {
@@ -369,7 +369,7 @@ hr.invis {
 }
 
 .margin_bottom_0 {
-    margin-bottom: 0 !important; 
+    margin-bottom: 0 !important;
 }
 
 a:focus, a:hover {
@@ -674,7 +674,7 @@ form#commant_form div.field textarea.custom_field {
 .slider_cont_inner p {
 
     color: #fff;
-    font-size: 21px;
+    font-size: 18px;
 
 }
 
@@ -2977,8 +2977,8 @@ h4.font_themecolor {
 }
 
 .page_title h2::first-letter {
-    font-size: 80px;   
-    color: #070100; 
+    font-size: 80px;
+    color: #070100;
 }
 
 .heading_s1 h2 span {
@@ -3624,7 +3624,7 @@ h3.price_tag {
 }
 
 /*-------------------------------------------------------------------
-    20.inner page 
+    20.inner page
 -------------------------------------------------------------------*/
 
 .innerpage_banner {
@@ -4003,7 +4003,7 @@ h3.price_tag {
 }
 
 /*-------------------------------------------------------------------
-    21.blog 
+    21.blog
 -------------------------------------------------------------------*/
 
 .blog_section {
@@ -4188,7 +4188,7 @@ p.post_date {
 }
 
 /*-------------------------------------------------------------------
-    22.blog detail 
+    22.blog detail
 -------------------------------------------------------------------*/
 
 .comment_cantrol {
@@ -4581,5 +4581,3 @@ form#commant_form div.field textarea.custom_field {
     text-transform: uppercase;
     margin-top: 20px;
 }
-
-
